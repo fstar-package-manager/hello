@@ -1,0 +1,11 @@
+{
+    "name": "hello",
+    "lib": {
+	"modules": [
+	    "Hello.Main.fst"
+	],
+	"dependencies": [
+	],
+	"verificationOptions": {}
+    }
+}
